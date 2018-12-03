@@ -1,8 +1,3 @@
-# hejira_translator
+# Hejira Translator
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+School project powered by [Yandex.Translate](https://translate.yandex.com/)
